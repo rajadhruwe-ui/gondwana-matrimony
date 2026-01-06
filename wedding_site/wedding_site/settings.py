@@ -268,7 +268,7 @@ SECRET_KEY = 'your-secret-key-here'  # Use .env in production
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # --------------------------------------------------
 # APPLICATIONS
